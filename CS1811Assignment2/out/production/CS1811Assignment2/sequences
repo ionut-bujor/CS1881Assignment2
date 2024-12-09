@@ -1,0 +1,9 @@
+System Check (procedure code 01),
+Fuel Loading (procedure code 02),
+Navigation Setup (procedure code 03),
+Communication Test (procedure code 04),
+Engine Ignition (procedure code 05),
+Weather Verification (procedure code 06),
+Crew Boarding (procedure code 07),
+Safety Override (procedure code 08), and
+Launch Pad Clear (procedure code 09).
